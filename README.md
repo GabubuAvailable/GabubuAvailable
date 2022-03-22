@@ -15,3 +15,5 @@ I'm a chill person. I like tech, chill music, talking with friends and wii stuff
 - Discord: Gabubu#8895
 - IRC (libera): gabubu
 - E-mail: gabubu@duck.com
+
+![No RickRoll this time ;)](https://user-images.githubusercontent.com/88589756/159552058-c600fe27-c163-49da-a3e1-cf1a33e8a2bd.png)
