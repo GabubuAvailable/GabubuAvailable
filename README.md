@@ -4,8 +4,8 @@
 I'm a chill person. I like tech, chill music, talking with friends and wii stuff. I'm a Arch Linux + dwm user btw :)
 
 # My projects
-1) ![WADs by Gabubu](https://github.com/GabubuAvailable/WADs-by-Gabubu)
-2) ![gbfetch](https://github.com/GabubuAvailable/gbfetch)
+1) [WADs by Gabubu](https://github.com/GabubuAvailable/WADs-by-Gabubu)
+2) [gbfetch](https://github.com/GabubuAvailable/gbfetch)
 
 # Feel free to check me out on
 - YouTube: Gabubu
