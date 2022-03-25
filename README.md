@@ -16,4 +16,8 @@ I'm a chill person. I like tech, chill music, talking with friends and wii stuff
 - IRC (libera): gabubu
 - E-mail: gabubu@duck.com
 
+# Are you boring?
+You can try my configs for linux softwares I use.
+[Click Here](https://github.com/GabubuAvailable/configurations) to see all my configs. Enjoy ;)
+
 ![No RickRoll this time ;)](https://user-images.githubusercontent.com/88589756/159552058-c600fe27-c163-49da-a3e1-cf1a33e8a2bd.png)
