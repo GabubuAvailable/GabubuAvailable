@@ -7,6 +7,7 @@ I'm a chill person. I like tech, chill music, talking with friends and wii stuff
 1) [WADs by Gabubu](https://github.com/GabubuAvailable/WADs-by-Gabubu)
 2) [gbfetch](https://github.com/GabubuAvailable/gbfetch)
 3) [batnotify](https://github.com/GabubuAvailable/batnotify)
+4) [ddisplay](https://github.com/GabubuAvailable/ddisplay)
 
 # Feel free to check me out on
 - YouTube: Gabubu
