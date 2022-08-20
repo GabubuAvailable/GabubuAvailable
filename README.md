@@ -14,7 +14,7 @@ I'm a chill person. I like tech, chill music, talking with friends and wii stuff
 - Twitter: @GabubuIsTaken
 - Reddit: u/HCA_YT
 - GitHub: GabubuAvailable
-- Discord: Gabubu#8895
+- Discord: YoshiGuy#9309
 - IRC (libera): gabubu
 - E-mail: gabubu@duck.com
 
