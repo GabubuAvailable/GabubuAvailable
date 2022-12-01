@@ -1,7 +1,7 @@
 ![Never Gonna Give You Up!](https://user-images.githubusercontent.com/88589756/159542089-81f02c69-0ae9-44e3-90ad-c8e5c0d696e5.png)
 
 # About me
-I'm a chill person. I like tech, chill music, talking with friends and wii stuff. I'm a Artix Linux + awesomewm user btw :)
+I'm a chill person. I like tech, chill music, talking with friends and wii stuff. I'm a ~~Artix Linux + awesomewm user btw~~ (I used to... now i'm a Modded Windows 10 user) :)
 
 # My projects
 1) [WADs by Gabubu](https://github.com/GabubuAvailable/WADs-by-Gabubu)
@@ -19,9 +19,10 @@ I'm a chill person. I like tech, chill music, talking with friends and wii stuff
 - E-mail: gabubu@duck.com
 
 # Are you bored?
-+ You can try my configs for linux softwares I use.
++ You can try my configs for linux softwares I used.
   - [Click Here](https://github.com/GabubuAvailable/configurations) to see all my configs. Enjoy ;)
-
++ Or... maybe you want some WADs for Wii.
+  - [Check here](https://wads.gabubu.gq)
 + Or you can read some news.
   - For browser: [https://gabubuavailable.github.io/news/](https://gabubuavailable.github.io/news/)
   - For RSS client: [https://gabubuavailable.github.io/news/rss.xml](https://gabubuavailable.github.io/news/rss.xml)
