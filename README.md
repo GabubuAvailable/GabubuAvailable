@@ -4,18 +4,15 @@
 I'm a chill person. I like tech, chill music, talking with friends and wii stuff. I'm a ~~Artix Linux + awesomewm user btw~~ (I used to... now i'm a Modded Windows 10 user) :)
 
 # My projects
-1) [WADs by Gabubu](https://github.com/GabubuAvailable/WADs-by-Gabubu)
+1) [Gabubu WADs](https://github.com/Gabubu-WADs/wads)
 2) [gbfetch](https://github.com/GabubuAvailable/gbfetch)
 3) [batnotify](https://github.com/GabubuAvailable/batnotify)
 4) [ddisplay](https://github.com/GabubuAvailable/ddisplay)
 
 # Feel free to check me out on
 - YouTube: Gabubu
-- Twitter: @GabubuIsTaken
-- Reddit: u/HCA_YT
 - GitHub: GabubuAvailable
 - Discord: TheGuy#9309
-- IRC (libera): gabubu
 - E-mail: gabubu@duck.com
 
 # Are you bored?
