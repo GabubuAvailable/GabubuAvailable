@@ -12,7 +12,7 @@ I'm a chill person. I like tech, chill music, talking with friends and wii stuff
 # Feel free to check me out on
 - YouTube: Gabubu
 - GitHub: GabubuAvailable
-- Discord: TheGuy#9309
+- Discord: Gabubu#9309 (idk when Discord will change the username...)
 - E-mail: gabubu@duck.com
 
 # Are you bored?
