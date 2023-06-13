@@ -12,13 +12,11 @@ I'm a chill person. I like tech, chill music, talking with friends and wii stuff
 # Feel free to check me out on
 - YouTube: Gabubu
 - GitHub: GabubuAvailable
-- Discord: Gabubu#9309 (idk when Discord will change the username...)
+- Discord: gabubu_bread (no more Gabubu#9309) :c
 - E-mail: gabubu@duck.com
 
 # Are you bored?
-+ You can try my configs for linux softwares I used.
-  - [Click Here](https://github.com/GabubuAvailable/configurations) to see all my configs. Enjoy ;)
-+ Or... maybe you want some WADs for Wii.
++ Maybe you want some WADs for Wii.
   - [Check here](https://wads.gabubu.gq)
 + Or you can read some news.
   - For browser: [https://gabubuavailable.github.io/news/](https://gabubuavailable.github.io/news/)
