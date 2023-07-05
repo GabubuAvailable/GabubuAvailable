@@ -16,10 +16,7 @@ I'm a chill person. I like tech, chill music, talking with friends and wii stuff
 - E-mail: gabubu@duck.com
 
 # Are you bored?
-+ Maybe you want some WADs for Wii.
++ Maybe you want some WADs for your Wii.
   - [Check here](https://wads.gabubu.gq)
-+ Or you can read some news.
-  - For browser: [https://gabubuavailable.github.io/news/](https://gabubuavailable.github.io/news/)
-  - For RSS client: [https://gabubuavailable.github.io/news/rss.xml](https://gabubuavailable.github.io/news/rss.xml)
 
 ![No RickRoll this time ;)](https://user-images.githubusercontent.com/88589756/159552058-c600fe27-c163-49da-a3e1-cf1a33e8a2bd.png)
