@@ -13,7 +13,7 @@ I'm a chill person. I like tech, chill music, talking with friends and wii stuff
 - YouTube: Gabubu
 - GitHub: GabubuAvailable
 - Discord: gabubu_bread (no more Gabubu#9309) :c
-- E-mail: gabubu@duck.com
+- E-mail: admin@gabubu.gq
 
 # Are you bored?
 + Maybe you want some WADs for your Wii.
