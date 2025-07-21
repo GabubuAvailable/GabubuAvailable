@@ -1,7 +1,7 @@
 ![Never Gonna Give You Up!](https://user-images.githubusercontent.com/88589756/159542089-81f02c69-0ae9-44e3-90ad-c8e5c0d696e5.png)
 
 # About me
-I'm a chill person. I like tech, chill music, talking with friends and wii stuff. I am a regular Windows 11 user. Deal with that lol.
+I'm a chill person. I like tech, chill music, talking with friends and wii stuff. I now use Fedora Linux since 18/July/2025. Deal with that!
 
 # My projects
 1) [Gabubu WADs](https://github.com/Gabubu-WADs/wads)
